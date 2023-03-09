@@ -11,8 +11,12 @@
             "id": "49796a2c45b7c0c4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/weekly_template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/weekly_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/weekly_template.md"
+              }
             }
           },
           {
@@ -147,8 +154,13 @@
   },
   "active": "49796a2c45b7c0c4",
   "lastOpenFiles": [
-    "100 Regular Notes/110 Daily Notes/03.03.2023.md",
+    "templates/goal_item_template.md",
     "templates/daily_template.md",
+    "100 Regular Notes/110 Daily Notes/2023/March/09.03.2023.md",
+    "templates/weekly_template.md",
+    "100 Regular Notes/110 Daily Notes/2023/March",
+    "100 Regular Notes/110 Daily Notes/2023",
+    "100 Regular Notes/110 Daily Notes/03.03.2023.md",
     "100 Regular Notes/110 Daily Notes/05.03.2023.md",
     "100 Regular Notes/110 Daily Notes/04.03.2023.md",
     "100 Regular Notes/110 Daily Notes",
@@ -169,19 +181,15 @@
     "Test MOC MOC.md",
     "templates/project_item_template.md",
     "projects/; CLI-Timer.md",
-    "templates/goal_item_template.md",
     "000Notes/Untitled.md",
     "100 Regular Notes",
     "000 Knowledge/030InputNotes",
-    "000Knowledge/030Ressources",
-    "000 Knowledge/020Notes",
     "templates/autotracking_goal_item_template.md",
     "; test-Canvas.canvas",
     "projects/; test.md",
     "Dashboard.md",
     "Goals.md",
     "goals/2022-02-11 - Run 1000 km in 2022.md",
-    "goals/2023-03-04 - Develop 5 Apps.md",
-    "; CLI Timer.md"
+    "goals/2023-03-04 - Develop 5 Apps.md"
   ]
 }

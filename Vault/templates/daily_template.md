@@ -1,5 +1,4 @@
-# <% tp.date.now("dddd - DD.MM.YYYY") %>
-
+# <% tp.date.now %>
 > [!Quote]+ Quote of the Day
 > <% tp.web.daily_quote() %>
 
